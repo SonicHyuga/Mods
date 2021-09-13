@@ -1,0 +1,2 @@
+add sonicmod-removeoverlays.zip
+add mod.ini
