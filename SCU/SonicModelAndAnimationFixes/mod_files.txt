@@ -1,0 +1,2 @@
+add sonicmod-modeledits.pck
+add mod.ini
