@@ -1,0 +1,50 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Configuration",
+         "Elements":
+         [
+			{
+               "Name":"IncludeDir1",
+               "DisplayName":"BGM",
+               "Description":[
+                  "Select between Sonic Colors and Sonic Colors Ultimate soundtracks.",
+               ],
+               "Type":"BGMEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"Sound"
+            },
+			
+
+            
+			
+         ]
+      }
+   ],
+   "Enums":{
+      "BGMEnum":[
+         {
+            "DisplayName":"Rainbow Remix",
+            "Value":"Sound_SCU",
+            "Description":[
+               "Use the Rainbow Remixes from Sonic Colors Ultimate.",
+            ]
+         },
+		 {
+            "DisplayName":"Original",
+            "Value":"Sound",
+            "Description":[
+               "Use the original tracks from the original Sonic Colors.",
+            ]
+         },
+		 
+      ],
+	  
+
+     
+	  
+   },
+   "IniFile":"mod.ini"
+}

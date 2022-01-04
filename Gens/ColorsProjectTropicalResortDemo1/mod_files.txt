@@ -28,4 +28,7 @@ add disk/bb/Packed/rso200/rso200.ar.11
 add disk/bb/Packed/rso200/rso200.ar.12
 add disk/bb/Packed/rso200/rso200.arl
 add disk/bb/Packed/rso200/Stage.pfd
+add Sound_SCU/CLR01_RSO.cpk
+add Sound_SCU/CLR01_RSO.csb
+add ConfigSchema.json
 add mod.ini
