@@ -28,3 +28,4 @@ add disk/bb/Packed/rso200/rso200.ar.11
 add disk/bb/Packed/rso200/rso200.ar.12
 add disk/bb/Packed/rso200/rso200.arl
 add disk/bb/Packed/rso200/Stage.pfd
+add mod.ini
