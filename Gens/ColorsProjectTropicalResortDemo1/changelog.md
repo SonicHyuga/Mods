@@ -1,3 +1,7 @@
+## Tropical Resort Demo 1 - v0.4
+- Act 1: Fixed an issue where you could fall off the stage while transitioning to the next Act.
+- Act 2: The half-loop before the final section should work as intended now.
+
 ## Tropical Resort Demo 1 - v0.3
 - Terrain optimizations for both Acts. If you were experiencing slowdowns, stutters, and/or random crashing, this should help.
 - Several object layout adjustments, mostly for Act 2.
